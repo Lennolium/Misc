@@ -193,7 +193,7 @@ ctest.nintendo.com
 beacons*.gvt2.com
 
 # Websites
-pr0gramm.com
+@@||pr0gramm.com^$important
 full.pr0gramm.com
 vid.pr0gramm.com
 mail.de
