@@ -227,3 +227,5 @@ tr.snapchat.com
 @@||app-analytics-v2.snapchat.com^$important
 app-analytics-v2.snapchat.com
 js.sentry-cdn.com
+@@||checkip.dyndns.org^$important
+@@||local^$important
