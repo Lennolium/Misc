@@ -193,13 +193,17 @@ ctest.nintendo.com
 beacons*.gvt2.com
 
 # Websites
+pr0gramm.com
 @@||pr0gramm.com^$important
 full.pr0gramm.com
 vid.pr0gramm.com
 mail.de
+@@||mail.de^$important
 my.mail.de
-google.com
 google.de
+google.com
+@@||google.com^$important
+@@||google.de^$important
 
 # Misc
 d2c8v52ll5s99u.cloudfront.net
@@ -219,5 +223,7 @@ s.youtube.com
 video-stats.l.google.com
 s.shopify.com
 tr.snapchat.com
+@@||tr.snapchat.com^$important
+@@||app-analytics-v2.snapchat.com^$important
 app-analytics-v2.snapchat.com
 js.sentry-cdn.com
