@@ -8,19 +8,15 @@ amd.cdn.turner.com
 # GeForce Experience
 events.gfe.nvidia.com
 gfwsl.geforce.com
+ota-downloads.nvidia.com
 
-# GTA Online telemetry. Whitelist this domain to prevent the game from crashing.
+# GTA Crashing Fix
 prod.telemetry.ros.rockstargames.com
 
-raw.githubusercontent.com
-
-# Netflix - Domains needed for netlix to work correctly
+# Netflix
 api-global.netflix.com
 appboot.netflix.com
 secure.netflix.com
-
-# Nvidia updates
-ota-downloads.nvidia.com
 
 # Samsung TV's Amazon Prime Video app
 time.samsungcloudsolution.com
@@ -31,14 +27,15 @@ cdn.samsungcloudsolution.com
 # Sky Go (skygo.sky.de)
 assets.adobedtm.com
 
-# Spotify premium with Denon Heos speakers
-# https://github.com/anudeepND/whitelist/issues/93
+# Spotify premium 
 mobile-ap.spotify.com
 apresolve.spotify.com
 upgrade.scdn.com
 market.spotify.com
 spclient.wg.spotify.com
 audio-ake.spotify.com.edgesuite.net
+spclient.wg.spotify.com 
+apresolve.spotify.com
 
 # URL shorteners
 adf.ly
@@ -55,13 +52,16 @@ amzn.com
 lm.licenses.adobe.com
 activate.adobe.com
 
+# YouTube
 s.youtube.com 
 video-stats.l.google.com
 
+# Google
 clients4.google.com 
 clients2.google.com 
 
-www.msftncsi.com
+# Microsoft Office and Win Update
+msftncsi.com
 outlook.office365.com 
 products.office.com 
 c.s-microsoft.com 
@@ -73,9 +73,7 @@ sls.update.microsoft.com.akadns.net
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 officeclient.microsoft.com
 
-spclient.wg.spotify.com 
-apresolve.spotify.com
-
+# Plex App and Web
 plex.tv 
 tvdb2.plex.tv 
 pubsub.plex.bz 
@@ -101,43 +99,53 @@ app.plex.tv
 o1.email.plex.tv  
 o2.sg0.plex.tv 
 dashboard.plex.tv
+gravatar.com
+thetvdb.com
+themoviedb.com
 
+# Website Design
 placehold.it 
 placeholdit.imgix.net
 
+# Dropbox
 dl.dropboxusercontent.com 
 ns1.dropbox.com 
 ns2.dropbox.com
 
+# Apple
 itunes.apple.com
 s.mzstatic.com
 appleid.apple.com
-
 captive.apple.com 
 gsp1.apple.com 
 www.apple.com 
 www.appleiphonecell.com
 
+# Epic Games Store
 tracking.epicgames.com
 
+# Firefox
 tracking-protection.cdn.mozilla.net
 
-# Contributed by Anudeep <anudeep@protonmail.com>
-# Project home page: https://github.com/anudeepND/whitelist
-# Licence: https://github.com/anudeepND/whitelist/blob/master/LICENSE
+# Signal
+signal.org
+www.signal.org
+updates2.signal.org
+textsecure-service-whispersystems.org
+giphy-proxy-production.whispersystems.org
+cdn.signal.org
+whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
+d83eunklitikj.cloudfront.net
+souqcdn.com
+cms.souqcdn.com
+api.directory.signal.org
+contentproxy.signal.org
+turn1.whispersystems.org
 
-# Adult Swim Videos on Amazon Firestick
-pmd.cdn.turner.com
-i.cdn.turner.com
-s.cdn.turner.com
-z.cdn.turner.com
-amd.cdn.turner.com
-
-# Amazon Alexa and Amazon Shopping app
+# Amazon Shopping and Kindle
+sqs.us-east-1.amazonaws.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
-
-# Amazon Kindle
 cognito-identity.us-east-1.amazonaws.com
 unagi-na.amazon.com
 ocsp.rootg2.amazontrust.com
@@ -146,27 +154,6 @@ todo-ta-g7g.amazon.com
 device-messaging-na.amazon.com
 s3-eu-west-1.amazonaws.com
 us-east-1.amazonaws.com
-
-# Amazon AWS (???) - whitelist to make Kryptonite work
-sqs.us-east-1.amazonaws.com
-
-# Bild.de
-acdn.adnxs.com
-cdn1.smartadserver.com
-ec-ns.sascdn.com
-
-# DirectTV Now
-js.maxmind.com
-directvnow.com
-directvapplications.hb.omtrdc.net
-s.zkcdn.net
-
-# Fix - Images not loading on www.thecut.com
-pixel.nymag.com
-
-
-# GTA Online telemetry. Whitelist this domain to prevent the game from crashing.
-prod.telemetry.ros.rockstargames.com
 
 # Host files
 hosts-file.net
@@ -180,120 +167,57 @@ sysctl.org
 pgl.yoyo.org
 zeustracker.abuse.ch
 
-# Images not loading on aliexpress.com
-ae01.alicdn.com
+# Nintendo Switch
+receive-lp1.dg.srv.nintendo.net
+ecs-lp1.hac.shop.nintendo.net
+accounts.nintendo.com
+bugyo.hac.lp1.eshop.nintendo.net
+dauth-lp1.ndas.srv.nintendo.net
+receive-lp1.dg.srv.nintendo.net
+conntest.nintendowifi.net
+sun.hac.lp1.d4c.nintendo.net
+e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
+app-a03.lp1.npns.srv.nintendo.net
+aauth-lp1.ndas.srv.nintendo.net
+accounts.nintendo.com
+atumn.hac.lp1.d4c.nintendo.net
+bcat-list-lp1.cdn.nintendo.net
+broker.lp1.npns.srv.nintendo.net
+consumer.lp1.npns.srv.nintendo.net
+ctest.cdn.nintendo.net
+dauth-lp1.ndas.srv.nintendo.net
+e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
+receive-lp1.dg.srv.nintendo.net
+ctest.nintendo.com
+104.198.251.169
+beacons*.gvt2.com
 
-# Lotus talk
-lotustalk.com
-www.lotustalk.com
+# Websites
+pr0gramm.com
+full.pr0gramm.com
+vid.pr0gramm.com
+mail.de
+my.mail.de
+google.com
+google.de
 
-# National Express, UK (nationalexpress.com/en) - Unable to book journey
-cdns.gigya.com
-
-# Netflix - Domains needed for netlix to work correctly
-api-global.netflix.com
-appboot.netflix.com
-secure.netflix.com
-
-# Nvidia updates
-ota-downloads.nvidia.com
-
-# Pluto.tv
-images.pluto.tv
-stitcher.pluto.tv
-siloh.pluto.tv
-silo.pluto.tv
-cdn-mobile.api.pluto.tv
-api.pluto.tv
-players.pluto.tv
-
-# Roku HGTV app: Failed to play previous episodes
-dcs-vod.apis.anvato.net
-
-# Roku TNT app: Failed to play videos
-z.cdn.turner.com
-manifest.auditude.com
-
-# Refersion.com (affiliate marketing)
-cdn.refersion.com
-refersion.com
-www.refersion.com
-
-# Roku TV CW and NBC app
-cwtv-mrss-akamai.cwtv.com
-cwtv-prod-elb.digitalsmiths.net
-redirector.googlevideo.com
-
-# Samsung TV's Amazon Prime Video app
-time.samsungcloudsolution.com
-
-# Samsung smart TV's network issue
-cdn.samsungcloudsolution.com
-
-# SBS Online videos not playing
-www.sbs.com.au
-sbs.com.au
-api.sbs.com.au
-media.sbs.com.au
-resources.sbs.com.au
-videocdn-sbs.akamaized.net
-sbsvodns-vh.akamaihd.net
-link.theplatform.com
-e7065.e2.akamaiedge.net
-a463.w10.akamai.net
-a790.w16.akamai.net
-
-# Share buttons on websites
-dsms0mj1bbhn4.cloudfront.net
-shareaholic.com
-
-# Sky Go (skygo.sky.de)
-assets.adobedtm.com
-
-# Spotify premium with Denon Heos speakers
-# https://github.com/anudeepND/whitelist/issues/93
-mobile-ap.spotify.com
-apresolve.spotify.com
-upgrade.scdn.com
-market.spotify.com
-spclient.wg.spotify.com
-audio-ake.spotify.com.edgesuite.net
-
-# Target's Weekly Ads
-weeklyad.target.com
-m.weeklyad.target.com
-weeklyad.target.com.edgesuite.net
-
-# URL shorteners
-adf.ly
-www.adf.ly
-bit.ly
-www.bit.ly
-goo.gl
-ow.ly
-www.ow.ly
-amzn.to
-amzn.com
-
-# Videos not playing on  arstechnica/wired/vogue/newyorker
-# Note: ads before videos may appear after whitelisting this domain
+# Misc
 d2c8v52ll5s99u.cloudfront.net
-
-# Videos not playing on www.jacquielawson.com
-f1.media.brightcove.com
-
-# WatchESPN
+stats.streamelements.com
 fpdownload.adobe.com
 entitlement.auth.adobe.com
 livepassdl.conviva.com
-
-# Xbox Achievements and game stats sync
-v10.events.data.microsoft.com
-v20.events.data.microsoft.com
-
-# streamelements.com (Blocked by Pi-hole regex)
-stats.streamelements.com
-
-# Adobe licence verification endpoints
-lm.licenses.adobe.com
-activate.adobe.com
+acdn.adnxs.com
+cdn1.smartadserver.com
+ec-ns.sascdn.com
+ae01.alicdn.com
+offline-maps.gvt1.com
+local
+s.mzstatic.com
+android.clients.google.com
+s.youtube.com
+video-stats.l.google.com
+s.shopify.com
+tr.snapchat.com
+app-analytics-v2.snapchat.com
+js.sentry-cdn.com
