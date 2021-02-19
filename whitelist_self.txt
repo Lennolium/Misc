@@ -192,6 +192,10 @@ ctest.nintendo.com
 104.198.251.169
 beacons*.gvt2.com
 
+# Corona Warnapp (veri=selber positiv, keys senden; svc90=andere positiv, keys empfangen)
+verification.coronawarn.app
+svc90.main.px.t-online.de
+
 # Websites
 pr0gramm.com
 @@||pr0gramm.com^$important
