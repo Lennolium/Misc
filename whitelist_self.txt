@@ -196,6 +196,13 @@ beacons*.gvt2.com
 verification.coronawarn.app
 svc90.main.px.t-online.de
 
+# wpad Fritz!Box Sicherheitslücke (Bei Proxy-Problemen deaktivieren)
+wpad.fritz.box
+wpad.box
+wpad.com
+wpad.de
+wpad
+
 # Websites
 pr0gramm.com
 @@||pr0gramm.com^$important
