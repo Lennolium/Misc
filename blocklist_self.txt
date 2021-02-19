@@ -1,0 +1,6 @@
+# wpad Fritz!Box Sicherheitslücke (Bei Proxy-Problemen deaktivieren)
+wpad.fritz.box
+wpad.box
+wpad.com
+wpad.de
+wpad
