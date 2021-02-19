@@ -196,13 +196,6 @@ beacons*.gvt2.com
 verification.coronawarn.app
 svc90.main.px.t-online.de
 
-# wpad Fritz!Box Sicherheitslücke (Bei Proxy-Problemen deaktivieren)
-wpad.fritz.box
-wpad.box
-wpad.com
-wpad.de
-wpad
-
 # Websites
 pr0gramm.com
 @@||pr0gramm.com^$important
@@ -238,5 +231,7 @@ tr.snapchat.com
 @@||app-analytics-v2.snapchat.com^$important
 app-analytics-v2.snapchat.com
 js.sentry-cdn.com
+@@||hubt.pornhub.com^$important
+hubt.pornhub.com
 @@||checkip.dyndns.org^$important
 @@||local^$important
