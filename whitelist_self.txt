@@ -251,6 +251,10 @@ s.shopify.com
 @@||hubt.pornhub.com^$important
 hubt.pornhub.com
 @@||media.trafficjunky.com^$important
+@@||hubtraffic.com^$important
+@@||trafficjunky.com^$important
+@@||ht-cdn2.adtng.com^$important
+@@||cdn77-pic.xnxx-cdn.com^$important
 @@||checkip.dyndns.org^$important
 @@||local^$important
 @@||ocsp.apple.com^$important
