@@ -255,6 +255,7 @@ hubt.pornhub.com
 @@||trafficjunky.com^$important
 @@||ht-cdn2.adtng.com^$important
 @@||cdn77-pic.xnxx-cdn.com^$important
+@@||cdn77-pic.xvideos-cdn.com^$important
 @@||checkip.dyndns.org^$important
 @@||local^$important
 @@||ocsp.apple.com^$important
