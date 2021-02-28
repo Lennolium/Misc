@@ -34,6 +34,9 @@ apresolve.spotify.com
 @@||api-partner.spotify.com^$important
 @@||smetrics.aem.playstation.com^$important
 @@||nsx.np.dl.playstation.net^$important
+@@||api-tv.spotify.com^$important
+@@||api2.branch.io^$important
+@@||sentry.io^$important
 
 # URL shorteners
 adf.ly
