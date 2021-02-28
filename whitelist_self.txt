@@ -1,10 +1,3 @@
-# Adult Swim Videos on Amazon Firestick
-pmd.cdn.turner.com
-i.cdn.turner.com
-s.cdn.turner.com
-z.cdn.turner.com
-amd.cdn.turner.com
-
 # GeForce Experience
 events.gfe.nvidia.com
 gfwsl.geforce.com
@@ -27,7 +20,7 @@ cdn.samsungcloudsolution.com
 # Sky Go (skygo.sky.de)
 assets.adobedtm.com
 
-# Spotify premium 
+# Spotify premium and Ps4 app
 mobile-ap.spotify.com
 apresolve.spotify.com
 upgrade.scdn.com
@@ -36,6 +29,11 @@ spclient.wg.spotify.com
 audio-ake.spotify.com.edgesuite.net
 spclient.wg.spotify.com 
 apresolve.spotify.com
+@@||spclient.wg.spotify.com^ 
+@@||apresolve.spotify.com^
+@@||api-partner.spotify.com^$important
+@@||smetrics.aem.playstation.com^$important
+@@||nsx.np.dl.playstation.net^$important
 
 # URL shorteners
 adf.ly
@@ -52,14 +50,6 @@ amzn.com
 lm.licenses.adobe.com
 activate.adobe.com
 
-# YouTube
-s.youtube.com 
-video-stats.l.google.com
-
-# Google
-clients4.google.com 
-clients2.google.com 
-
 # Microsoft Office and Win Update
 msftncsi.com
 outlook.office365.com 
@@ -72,6 +62,16 @@ g.live.com
 sls.update.microsoft.com.akadns.net 
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 officeclient.microsoft.com
+@@||officeclient.microsoft.com^$important
+@@||outlook.office365.com^$important
+@@||products.office.com^$important
+@@||c.s-microsoft.com^ 
+@@||i.s-microsoft.com^
+@@||login.live.com^$important
+@@||g.live.com^$important
+@@||dl.delivery.mp.microsoft.com^ 
+@@||geo-prod.do.dsp.mp.microsoft.com^ 
+@@||displaycatalog.mp.microsoft.com^
 
 # Plex App and Web
 plex.tv 
@@ -120,6 +120,7 @@ captive.apple.com
 gsp1.apple.com 
 www.apple.com 
 www.appleiphonecell.com
+@@||ocsp.apple.com^$important
 
 # Epic Games Store
 tracking.epicgames.com
@@ -196,6 +197,35 @@ beacons*.gvt2.com
 verification.coronawarn.app
 svc90.main.px.t-online.de
 
+# Snapchat
+tr.snapchat.com
+@@||tr.snapchat.com^$important
+@@||app-analytics-v2.snapchat.com^$important
+app-analytics-v2.snapchat.com
+js.sentry-cdn.com
+@@||cf-st.sc-cdn.net^
+@@||sc-analytics.appspot.com^
+@@||app-analytics.snapchat.com^
+
+# YouTube
+google.de
+google.com
+@@||google.com^$important
+@@||google.de^$important
+@@||r4---sn-4g5ednly.googlevideo.com^$important
+@@||r4---sn-h0jeln7l.googlevideo.com^$important
+@@||clients2.google.com^$important
+@@||clients2.google.com^$important
+@@||video-stats.l.google.com^$important
+s.mzstatic.com
+android.clients.google.com
+s.youtube.com
+video-stats.l.google.com
+s.youtube.com 
+video-stats.l.google.com
+clients4.google.com 
+clients2.google.com 
+
 # Websites
 pr0gramm.com
 @@||pr0gramm.com^$important
@@ -204,10 +234,6 @@ vid.pr0gramm.com
 mail.de
 @@||mail.de^$important
 my.mail.de
-google.de
-google.com
-@@||google.com^$important
-@@||google.de^$important
 
 # Misc
 d2c8v52ll5s99u.cloudfront.net
@@ -221,17 +247,15 @@ ec-ns.sascdn.com
 ae01.alicdn.com
 offline-maps.gvt1.com
 local
-s.mzstatic.com
-android.clients.google.com
-s.youtube.com
-video-stats.l.google.com
 s.shopify.com
-tr.snapchat.com
-@@||tr.snapchat.com^$important
-@@||app-analytics-v2.snapchat.com^$important
-app-analytics-v2.snapchat.com
-js.sentry-cdn.com
 @@||hubt.pornhub.com^$important
 hubt.pornhub.com
+@@||media.trafficjunky.com^$important
 @@||checkip.dyndns.org^$important
 @@||local^$important
+@@||ocsp.apple.com^$important
+@@||ea.com^$important
+@@||cdn.optimizely.com^
+@@||keystone.mwbsys.com^$important
+@@||blockchain.info^$important
+
