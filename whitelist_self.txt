@@ -11,9 +11,6 @@ api-global.netflix.com
 appboot.netflix.com
 secure.netflix.com
 
-# Samsung TV's Amazon Prime Video app
-time.samsungcloudsolution.com
-
 # Samsung smart TV's network issue
 cdn.samsungcloudsolution.com
 
@@ -146,7 +143,7 @@ api.directory.signal.org
 contentproxy.signal.org
 turn1.whispersystems.org
 
-# Amazon Shopping and Kindle
+# Amazon Shopping, Kindle and Prime Video
 sqs.us-east-1.amazonaws.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
@@ -158,6 +155,10 @@ todo-ta-g7g.amazon.com
 device-messaging-na.amazon.com
 s3-eu-west-1.amazonaws.com
 us-east-1.amazonaws.com
+@@||fls-eu.amazon.com^$important
+@@||fls-na.amazon.com^$important
+time.samsungcloudsolution.com
+@@||time.samsungcloudsolution.com^$important
 
 # Host files
 hosts-file.net
@@ -209,6 +210,16 @@ js.sentry-cdn.com
 @@||cf-st.sc-cdn.net^
 @@||sc-analytics.appspot.com^
 @@||app-analytics.snapchat.com^
+@@||googleapis.com^$important
+@@||ghs.googlehosted.com^$important
+@@||feelinsonice-hrd.appspot.com^$important
+@@||feelinsonice.appspot.com^$important
+@@||appspot.l.google.com^$important
+@@||snapchat.com^$important
+@@||data.flurry.com^$important
+@@||feelinsonice.com^$important
+@@||cf-st.sc-cdn.net^$important
+@@||app.snapchat.com^$important
 
 # YouTube
 google.de
@@ -266,4 +277,9 @@ hubt.pornhub.com
 @@||cdn.optimizely.com^
 @@||keystone.mwbsys.com^$important
 @@||blockchain.info^$important
+@@||cdn.electronic.us^$important
+@@||js.hs-scripts.com^$important
+@@||go.veeam.com^$important
+@@||cdn77-vid.xnxx-cdn.com^$important
+@@||multi.xnxx.com^$importan
 
