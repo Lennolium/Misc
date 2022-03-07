@@ -1,4 +1,4 @@
-# Adguard Home Whitelist
+# MISC
 
 DEPRECATED!!
 
