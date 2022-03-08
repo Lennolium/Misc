@@ -325,3 +325,7 @@ hubt.pornhub.com
 @@||stats.grafana.org^$important
 @@||influxdata.com^$important
 @@||stats.influxdata.com^$important
+@@||app.gitbook.com^$important
+@@||gitbook.com^$important
+@@||lancellc.gitbook.io^$important
+
