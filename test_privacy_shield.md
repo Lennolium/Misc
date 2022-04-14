@@ -75,12 +75,16 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 &nbsp;
 
 ## <ins>Download</ins> 
-| TITLE   | DESCRIPTION | DEVICE | DOMAIN COUNT | DOWNLOAD LINK   |
+| TITLE   | DESCRIPTION | FILE SIZE | DOMAIN COUNT | DOWNLOAD LINK   |
 | --- | ---------------------- |:-------:|:--------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-| erstens  |  zweitens  | daily  | viertens  |  fünftens  |
-| Lennolium's Privacy Shield  | A comprehensive All-in-One AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam.   |  Any          | 1.984.403   | [Link](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/PrivacyShield.txt)       | 
-| Privacy Gate Whitelist | A well-maintained Whitelist compiled from reputable Sources.    |    iOS      | 18.511   | [Link](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/PrivacyGate-Whitelist.txt)       | 
-  
+| **Basic**  |  Very lightweight Protection  | 2M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Basic-f5d132?style=flat-square)](https://buymeacoffee.com/lennolium)  |
+| **Mid**  |  Mid Range Protection  | 3M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Mid-orange?style=flat-square)](https://buymeacoffee.com/lennolium)  |
+| **Pro**  |  Balanced Protection  | 4M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Pro-cf2727?style=flat-square)](https://buymeacoffee.com/lennolium)  |
+| **Ultimate**  |  Non Plus Ultra Protection  | 5M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Ultimate-blueviolet?style=flat-square)](https://buymeacoffee.com/lennolium)  |
+| **iOS**  |  iOS Version  | 6M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-iOS-blue?style=flat-square)](https://buymeacoffee.com/lennolium)  |
+| **Hosts**  |  Host Version of the Pro Filter List  | 7M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Hosts-blue?style=flat-square)](https://buymeacoffee.com/lennolium)  |
+| **Domains**  |  Domain Version of the Pro Filter List  | 8M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Domains-blue?style=flat-square)](https://buymeacoffee.com/lennolium)  |
+ 
 ## <ins>Usage</ins>
 Follow the Instructions for your specific platform below to successfully implement the List.
   
