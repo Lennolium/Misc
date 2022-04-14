@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/github/commit-activity/m/Lennolium/PrivacyShield?label=Commit%20Activity" alt="commit activity" >
      <a/>
   <a href="https://github.com/Lennolium/PrivacyShield#download" > 
-    <img src="https://img.shields.io/badge/Version-1.0.1-brightgreen" alt="stable version" >
+    <img src="https://img.shields.io/badge/Version-1.1.0-brightgreen" alt="stable version" >
   <a/>   
      <br>
   <a href="https://github.com/Lennolium/PrivacyShield/issues" > 
@@ -82,8 +82,9 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 | **Pro**  |  Balanced Protection  | 4M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Pro-cf2727?style=flat-square)](https://buymeacoffee.com/lennolium)  |
 | **Ultimate**  |  Non Plus Ultra Protection  | 5M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Ultimate-blueviolet?style=flat-square)](https://buymeacoffee.com/lennolium)  |
 | **Mobile**  |  iOS/Android Version for App | 6M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Mobile-blue?style=flat-square)](https://buymeacoffee.com/lennolium)  |
-| **Hosts**  |  Host Version of the Pro Filter List  | 7M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Hosts-blue?style=flat-square)](https://buymeacoffee.com/lennolium)  |
-| **Domains**  |  Domain Version of the Pro Filter List  | 8M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Domains-blue?style=flat-square)](https://buymeacoffee.com/lennolium)  |
+| **Hosts**  |  Host Version of the Pro Filter List  | 7M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Hosts-lightblue?style=flat-square)](https://buymeacoffee.com/lennolium)  |
+| **Domains**  |  Domain Version of the Pro Filter List  | 8M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Domains-lightblue?style=flat-square)](https://buymeacoffee.com/lennolium)  |
+| **White List**  |  Whitelisted Domains  | 6K  | 25.511  |  [![Download](https://img.shields.io/badge/⬇︎-White_List-blue?style=flat-square)](https://buymeacoffee.com/lennolium)  |
  
 ## <ins>Usage</ins>
 Follow the Instructions for your specific platform below to successfully implement the List.
