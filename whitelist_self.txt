@@ -250,20 +250,20 @@ mail.de
 my.mail.de
 
 # Misc
-d2c8v52ll5s99u.cloudfront.net
-stats.streamelements.com
-fpdownload.adobe.com
-entitlement.auth.adobe.com
-livepassdl.conviva.com
-acdn.adnxs.com
-cdn1.smartadserver.com
-ec-ns.sascdn.com
-ae01.alicdn.com
-offline-maps.gvt1.com
-local
-s.shopify.com
+@@||d2c8v52ll5s99u.cloudfront.net^
+@@||stats.streamelements.com^
+@@||fpdownload.adobe.com^
+@@||entitlement.auth.adobe.com^
+@@||livepassdl.conviva.com^
+@@||acdn.adnxs.com^
+@@||cdn1.smartadserver.com^
+@@||ec-ns.sascdn.com^
+@@||ae01.alicdn.com^
+@@||offline-maps.gvt1.com^
+@@||local^
+@@||s.shopify.com^
 @@||hubt.pornhub.com^$important
-hubt.pornhub.com
+@@||hubt.pornhub.com^
 @@||media.trafficjunky.com^$important
 @@||hubtraffic.com^$important
 @@||trafficjunky.com^$important
@@ -328,4 +328,11 @@ hubt.pornhub.com
 @@||app.gitbook.com^$important
 @@||gitbook.com^$important
 @@||lancellc.gitbook.io^$important
+@@||cc-api-data.adobe.io^$important
+@@||assets.prod.leanplum.com^$important
+@@||u22752280.ct.sendgrid.net^$important
+@@||unsubscribe.prod.leanplum.com^$important
+@@||leanplum.com^$important
+@@||github.io^$important
+
 
