@@ -74,13 +74,12 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 
 &nbsp;
 
-## <ins>Download</ins>
-| TITLE   | DESCRIPTION                  | DOMAIN COUNT                                                                                                                      | DOWNLOAD LINK                                                                                    |
-| --- | ---------------------- |:--------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-| Lennolium's Privacy Shield  | A comprehensive All-in-One AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam.          | 1.984.403   | [Link](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/PrivacyShield.txt)       | 
-| Privacy Gate Whitelist | A well-maintained Whitelist compiled from reputable Sources.          | 18.511   | [Link](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/PrivacyGate-Whitelist.txt)       | 
-  
-&nbsp; 
+## <ins>Download</ins> 
+| TITLE   | DESCRIPTION | DEVICE | DOMAIN COUNT | DOWNLOAD LINK   |
+| --- | ---------------------- |:-------:|:--------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
+| erstens  |  zweitens  | daily  | viertens  |  fünftens  |
+| Lennolium's Privacy Shield  | A comprehensive All-in-One AdGuard Filter List optimized for DNS level blocking of Ads, Analytics, Tracking, Malware &amp; Scam.   |  Any          | 1.984.403   | [Link](https://raw.githubusercontent.com/Lennolium/PrivacyShield/master/PrivacyShield.txt)       | 
+| Privacy Gate Whitelist | A well-maintained Whitelist compiled from reputable Sources.    |    iOS      | 18.511   | [Link](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/PrivacyGate-Whitelist.txt)       | 
   
 ## <ins>Usage</ins>
 Follow the Instructions for your specific platform below to successfully implement the List.
