@@ -77,14 +77,14 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 ## <ins>Download</ins> 
 | TITLE   | DESCRIPTION | FILE SIZE | DOMAIN COUNT | DOWNLOAD LINK   |
 | --- | ---------------------- |:-------:|:--------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-| **Silver**  |  Very lightweight Protection  | 2M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Silver-BBC2CC?style=flat-square)](https://buymeacoffee.com/lennolium)  |
-| **Gold**  |  Mid Range Protection  | 3M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Gold-EDC423?style=flat-square)](https://buymeacoffee.com/lennolium)  |
+| **Bronze/Mobile**  |  iOS/Android Version for Usage with Apps | 6M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Bronze-9F6700?style=flat-square)](https://buymeacoffee.com/lennolium)  |
+| **Silver**  |  Very lightweight Protection  | 3M  | 143.086  |  [![Download](https://img.shields.io/badge/⬇︎-Silver-BBC2CC?style=flat-square)](https://buymeacoffee.com/lennolium)  |
+| **Gold**  |  Mid Range Protection  | 13M  | 654.948  |  [![Download](https://img.shields.io/badge/⬇︎-Gold-EDC423?style=flat-square)](https://buymeacoffee.com/lennolium)  |
 | **Platinum**  |  Balanced Protection  | 4M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Platinum-DF88B7?style=flat-square)](https://buymeacoffee.com/lennolium)  |
 | **Diamond**  |  Ultra High Protection  | 5M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Diamond-61CEA4?style=flat-square)](https://buymeacoffee.com/lennolium)  |
-| **Bronze/Mobile**  |  iOS/Android Version for App | 6M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Bronze-9F6700?style=flat-square)](https://buymeacoffee.com/lennolium)  |
 | **Antimatter**  |  Out of World Protection (may break some sites)  | 7M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Antimatter-black?style=flat-square)](https://buymeacoffee.com/lennolium)  |
-| **Hosts**  |  Hosts Version of the Pro Filter List  | 8M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Hosts-lightblue?style=flat-square)](https://buymeacoffee.com/lennolium)  |
-| **White List**  |  Whitelisted Domains applied to all Filter Lists  | 6K  | 25.511  |  [![Download](https://img.shields.io/badge/⬇︎-White_List-blue?style=flat-square)](https://buymeacoffee.com/lennolium)  |
+| **Hosts**  |  Hosts Version of the Platinum Filter List  | 8M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Hosts-lightblue?style=flat-square)](https://buymeacoffee.com/lennolium)  |
+| **White List**  |  White List applied to all Filter Lists  | 900K  | 35.429  |  [![Download](https://img.shields.io/badge/⬇︎-White_List-blue?style=flat-square)](https://buymeacoffee.com/lennolium)  |
  
 ## <ins>Usage</ins>
 Follow the Instructions for your specific platform below to successfully implement the List.
