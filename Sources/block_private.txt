@@ -1,0 +1,54 @@
+# wpad Fritz!Box Sicherheitslücke (Bei Proxy-Problemen deaktivieren)
+# wpad.fritz.box
+# wpad.box
+# wpad.com
+# wpad.de
+# wpad
+
+# MS Office Tracking
+geo.settings-win.data.microsoft.com.akadns.net
+db5-eap.settings-win.data.microsoft.com.akadns.net
+settings-win.data.microsoft.com
+db5.settings-win.data.microsoft.com.akadns.net
+asimov-win.settings.data.microsoft.com.akadns.net
+db5.vortex.data.microsoft.com.akadns.net
+v10-win.vortex.data.microsoft.com.akadns.net
+geo.vortex.data.microsoft.com.akadns.net
+v10.vortex-win.data.microsoft.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+us.vortex-win.data.microsoft.com
+eu.vortex-win.data.microsoft.com
+vortex-win-sandbox.data.microsoft.com
+alpha.telemetry.microsoft.com
+oca.telemetry.microsoft.com
+ceuswatcab01.blob.core.windows.net
+ceuswatcab02.blob.core.windows.net
+eaus2watcab01.blob.core.windows.net
+eaus2watcab02.blob.core.windows.net
+weus2watcab01.blob.core.windows.net
+weus2watcab02.blob.core.windows.net
+
+# Misc
+supportmetrics.apple.com
+securemetrics.apple.com
+ads-api.twitter.com
+advertising.twitter.com
+analytics.pointdrive.linkedin.com
+rereddit.com
+ads.pinterest.com
+ads-dev.pinterest.com
+analytics.pinterest.com
+trk.pinterest.com
+widgets.pinterest.com
+supportmetrics.v.aaplimg.com
+ads.tiktok.com
+adservice.google.com
+metrics.apple.com
+metrics.icloud.com
+ads.google.com
+adtago.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+advice-ads.s3.amazonaws.com
+graph.facebook.com
