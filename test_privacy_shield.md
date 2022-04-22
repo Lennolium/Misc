@@ -84,7 +84,7 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 | **Diamond**  |  Ultra High Protection (may break some sites)  | 5M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Diamond-61CEA4?style=flat-square)](https://buymeacoffee.com/lennolium)  |
 | **Antimatter**  |  Out of World Protection (Not released yet)  | TBA  | TBA  |   [<img width="105" src="https://github.com/Lennolium/PrivacyShield/raw/main/Logos/Antimatter.svg" alt="logo" />](#download)  |
 | **Hosts**  |  Hosts Version of the Platinum Filter List  | 8M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Hosts-lightblue?style=flat-square)](https://buymeacoffee.com/lennolium)  |
-| **White List**  |  White List applied to all Filter Lists  | 900K  | 37.032  |  [![Download](https://img.shields.io/badge/⬇︎-White_List-blue?style=flat-square)](https://buymeacoffee.com/lennolium)  |
+| **White List**  |  White List applied to all Filter Lists  | 900K  | 37.039  |  [![Download](https://img.shields.io/badge/⬇︎-White_List-blue?style=flat-square)](https://buymeacoffee.com/lennolium)  |
  
 ## <ins>Usage</ins>
 Follow the Instructions for your specific platform below to successfully implement the List.
