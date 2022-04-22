@@ -81,8 +81,8 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 | **Silver**  |  Very lightweight Protection  | 3M  | 143.086  |  [![Download](https://img.shields.io/badge/⬇︎-Silver-BBC2CC?style=flat-square)](https://buymeacoffee.com/lennolium)  |
 | **Gold**  |  Mid Range Protection  | 13M  | 654.948  |  [![Download](https://img.shields.io/badge/⬇︎-Gold-EDC423?style=flat-square)](https://buymeacoffee.com/lennolium)  |
 | **Platinum**  |  Balanced Protection  | 4M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Platinum-DF88B7?style=flat-square)](https://buymeacoffee.com/lennolium)  |
-| **Diamond**  |  Ultra High Protection  | 5M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Diamond-61CEA4?style=flat-square)](https://buymeacoffee.com/lennolium)  |
-| **Antimatter**  |  Out of World Protection (may break some sites)  | 7M  | viertens  |   [<img width="105" src="https://raw.githubusercontent.com/Lennolium/Misc/main/Antimatter.svg" alt="logo" />](https://buymeacoffee.com/lennolium)  |
+| **Diamond**  |  Ultra High Protection (may break some sites)  | 5M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Diamond-61CEA4?style=flat-square)](https://buymeacoffee.com/lennolium)  |
+| **Antimatter**  |  Out of World Protection (may break some sites)  | 7M  | TBA  |   [<img width="105" src="https://raw.githubusercontent.com/Lennolium/Misc/main/Antimatter.svg" alt="logo" />](#)  |
 | **Hosts**  |  Hosts Version of the Platinum Filter List  | 8M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Hosts-lightblue?style=flat-square)](https://buymeacoffee.com/lennolium)  |
 | **White List**  |  White List applied to all Filter Lists  | 900K  | 37.032  |  [![Download](https://img.shields.io/badge/⬇︎-White_List-blue?style=flat-square)](https://buymeacoffee.com/lennolium)  |
  
