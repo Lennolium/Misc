@@ -77,7 +77,7 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 ## <ins>Download</ins> 
 | TITLE   | DESCRIPTION | FILE SIZE | DOMAIN COUNT | DOWNLOAD LINK   |
 | --- | ---------------------- |:-------:|:--------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-| **Bronze/Mobile**  |  iOS/Android Version for Usage with Apps | 950K  | 48.994  |  [![Download](https://img.shields.io/badge/⬇︎-Bronze-9F6700?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-bronze.txt)  |
+| **Bronze/Mobile**  |  iOS/Android Version for Usage with Apps | 950K  | 48.562  |  [![Download](https://img.shields.io/badge/⬇︎-Bronze-9F6700?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-bronze.txt)  |
 | **Silver**  |  Very lightweight Protection  | 3M  | 143.086  |  [![Download](https://img.shields.io/badge/⬇︎-Silver-BBC2CC?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-silver.txt)  |
 | **Gold**  |  Mid Range Protection  | 13M  | 654.948  |  [![Download](https://img.shields.io/badge/⬇︎-Gold-EDC423?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-gold.txt)  |
 | **Platinum**  |  Balanced Protection  | 41M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Platinum-DF88B7?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-platinum.txt)  |
