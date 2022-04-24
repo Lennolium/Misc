@@ -77,14 +77,14 @@ A comprehensive AdGuard Filter List optimized for DNS level blocking of Ads, Ana
 ## <ins>Download</ins> 
 | TITLE   | DESCRIPTION | FILE SIZE | DOMAIN COUNT | DOWNLOAD LINK   |
 | --- | ---------------------- |:-------:|:--------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-| **Bronze/Mobile**  |  iOS/Android Version for Usage with Apps | 950K  | 48.562  |  [![Download](https://img.shields.io/badge/⬇︎-Bronze-9F6700?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-bronze.txt)  |
-| **Silver**  |  Very lightweight Protection  | 3M  | 143.222  |  [![Download](https://img.shields.io/badge/⬇︎-Silver-BBC2CC?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-silver.txt)  |
-| **Gold**  |  Mid Range Protection  | 13M  | 646.958  |  [![Download](https://img.shields.io/badge/⬇︎-Gold-EDC423?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-gold.txt)  |
-| **Platinum**  |  Balanced Protection  | 41M  | 1.866.567  |  [![Download](https://img.shields.io/badge/⬇︎-Platinum-DF88B7?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-platinum.txt)  |
-| **Diamond**  |  Ultra High Protection (may break some sites)  | 5M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Diamond-61CEA4?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-diamond.txt)  |
+| **Bronze/Mobile**  |  iOS/Android Version for Usage with Apps | 950 K  | 48.562  |  [![Download](https://img.shields.io/badge/⬇︎-Bronze-9F6700?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-bronze.txt)  |
+| **Silver**  |  Very lightweight Protection  | 3 M  | 143.222  |  [![Download](https://img.shields.io/badge/⬇︎-Silver-BBC2CC?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-silver.txt)  |
+| **Gold**  |  Mid Range Protection  | 13 M  | 646.958  |  [![Download](https://img.shields.io/badge/⬇︎-Gold-EDC423?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-gold.txt)  |
+| **Platinum**  |  Balanced Protection  | 41 M  | 1.866.567  |  [![Download](https://img.shields.io/badge/⬇︎-Platinum-DF88B7?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-platinum.txt)  |
+| **Diamond**  |  Ultra High Protection (may break some sites)  | 52 M  | 2.197.702  |  [![Download](https://img.shields.io/badge/⬇︎-Diamond-61CEA4?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-diamond.txt)  |
 | **Antimatter**  |  Out of World Protection (Not released yet)  | TBA  | TBA  |   [<img width="105" src="https://github.com/Lennolium/PrivacyShield/raw/main/Logos/Antimatter.svg" alt="logo" />](#download)  |
-| **Hosts**  |  Hosts Version of the Platinum Filter List  | 8M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Hosts-lightblue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-hosts.txt)  |
-| **White List**  |  White List applied to all Filter Lists  | 890K  | 37.039  |  [![Download](https://img.shields.io/badge/⬇︎-White_List-blue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyGate-whitelist.txt)  |
+| **Hosts**  |  Hosts Version of the Platinum Filter List  | 8 M  | viertens  |  [![Download](https://img.shields.io/badge/⬇︎-Hosts-lightblue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyShield-hosts.txt)  |
+| **White List**  |  White List applied to all Filter Lists  | 890 K  | 37.039  |  [![Download](https://img.shields.io/badge/⬇︎-White_List-blue?style=flat-square)](https://raw.githubusercontent.com/Lennolium/PrivacyShield/main/Filters/PrivacyGate-whitelist.txt)  |
  
 ## <ins>Usage</ins>
 Follow the Instructions for your specific platform below to successfully implement the List.
