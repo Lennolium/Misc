@@ -1,3 +1,6 @@
+# Lennolium's Private White List
+# -> used also to add false positives reported on github/privacyshield/issues
+
 # GeForce Experience
 events.gfe.nvidia.com
 gfwsl.geforce.com
@@ -13,6 +16,11 @@ secure.netflix.com
 
 # Samsung smart TV's network issue
 cdn.samsungcloudsolution.com
+samsungotn.net
+gpm.samsungqbe.com
+ns11.whois.co.kr
+lcprd1.samsungcloudsolution.net
+time.samsungcloudsolution.com
 
 # Sky Go (skygo.sky.de)
 assets.adobedtm.com
@@ -25,9 +33,6 @@ market.spotify.com
 spclient.wg.spotify.com
 audio-ake.spotify.com.edgesuite.net
 spclient.wg.spotify.com 
-apresolve.spotify.com
-spclient.wg.spotify.com 
-apresolve.spotify.com
 api-partner.spotify.com
 smetrics.aem.playstation.com
 nsx.np.dl.playstation.net
@@ -50,7 +55,7 @@ amzn.com
 lm.licenses.adobe.com
 activate.adobe.com
 
-# Microsoft Office and Win Update
+# Microsoft Office, Win Update and Xbox
 msftncsi.com
 outlook.office365.com 
 products.office.com 
@@ -62,16 +67,58 @@ g.live.com
 sls.update.microsoft.com.akadns.net 
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 officeclient.microsoft.com
-officeclient.microsoft.com
 outlook.office365.com
 products.office.com
-c.s-microsoft.com 
 i.s-microsoft.com
 login.live.com
-g.live.com
 dl.delivery.mp.microsoft.com 
 geo-prod.do.dsp.mp.microsoft.com 
 displaycatalog.mp.microsoft.com
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net 
+tlu.dl.delivery.mp.microsoft.com
+msedge.api.cdp.microsoft.com
+clientconfig.passport.net 
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+client-s.gateway.messenger.live.com
+arc.msn.com
+activity.windows.com
+w xbox.ipv6.microsoft.com 
+device.auth.xboxlive.com 
+msftncsi.com 
+title.mgt.xboxlive.com 
+xsts.auth.xboxlive.com 
+title.auth.xboxlive.com 
+ctldl.windowsupdate.com 
+attestation.xboxlive.com 
+xboxexperiencesprod.experimentation.xboxlive.com 
+xflight.xboxlive.com 
+cert.mgt.xboxlive.com 
+xkms.xboxlive.com 
+def-vef.xboxlive.com 
+notify.xboxlive.com 
+help.ui.xboxlive.com 
+licensing.xboxlive.com 
+eds.xboxlive.com 
+xboxlive.com 
+v10.vortex-win.data.microsoft.com 
+settings-win.data.microsoft.com
+s.gateway.messenger.live.com 
+client-s.gateway.messenger.live.com 
+ui.skype.com pricelist.skype.com 
+apps.skype.com m.hotmail.com 
+sa.symcb.com 
+s1.symcb.com
+s2.symcb.com
+s3.symcb.com
+s4.symcb.com
+s5.symcb.com
+dev.virtualearth.net 
+ecn.dev.virtualearth.net 
+t0.ssl.ak.dynamic.tiles.virtualearth.net 
+t0.ssl.ak.tiles.virtualearth.net
+ipv6.msftncsi.com
+msftconnecttest.com 
 
 # Plex App and Web
 plex.tv 
@@ -103,6 +150,19 @@ gravatar.com
 thetvdb.com
 themoviedb.com
 
+#Sonarr
+services.sonarr.tv 
+skyhook.sonarr.tv 
+download.sonarr.tv 
+apt.sonarr.tv 
+forums.sonarr.tv
+
+#DirectTV
+directvnow.com 
+directvapplications.hb.omtrdc.net 
+s.zkcdn.net 
+js.maxmind.com
+
 # Website Design
 placehold.it 
 placeholdit.imgix.net
@@ -118,9 +178,13 @@ s.mzstatic.com
 appleid.apple.com
 captive.apple.com 
 gsp1.apple.com 
+apple.com 
+appleiphonecell.com
+ocsp.apple.com
+gsp-ssl.ls.apple.com
+gsp-ssl.ls-apple.com.akadns.net
 www.apple.com 
 www.appleiphonecell.com
-ocsp.apple.com
 
 # Epic Games Store
 tracking.epicgames.com
@@ -142,6 +206,21 @@ cms.souqcdn.com
 api.directory.signal.org
 contentproxy.signal.org
 turn1.whispersystems.org
+ud-chat.signal.org
+chat.signal.org
+storage.signal.org
+
+# Twitter
+twitter.com
+upload.twitter.com
+api.twitter.com
+mobile.twitter.com
+# Banks
+
+h-sdk.online-metrix.net
+check2.tsb.co.uk
+p11.techlab-cdn.com
+logs.juspay.in
 
 # Amazon Shopping, Kindle and Prime Video
 sqs.us-east-1.amazonaws.com
@@ -157,8 +236,6 @@ s3-eu-west-1.amazonaws.com
 us-east-1.amazonaws.com
 fls-eu.amazon.com
 fls-na.amazon.com
-time.samsungcloudsolution.com
-time.samsungcloudsolution.com
 
 # Host files
 hosts-file.net
@@ -171,6 +248,10 @@ winhelp2002.mvps.org
 sysctl.org
 pgl.yoyo.org
 zeustracker.abuse.ch
+app.gitbook.com
+gitbook.com
+lancellc.gitbook.io
+github.io
 
 # Nintendo Switch
 receive-lp1.dg.srv.nintendo.net
@@ -178,33 +259,26 @@ ecs-lp1.hac.shop.nintendo.net
 accounts.nintendo.com
 bugyo.hac.lp1.eshop.nintendo.net
 dauth-lp1.ndas.srv.nintendo.net
-receive-lp1.dg.srv.nintendo.net
 conntest.nintendowifi.net
 sun.hac.lp1.d4c.nintendo.net
 e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
 app-a03.lp1.npns.srv.nintendo.net
 aauth-lp1.ndas.srv.nintendo.net
-accounts.nintendo.com
 atumn.hac.lp1.d4c.nintendo.net
 bcat-list-lp1.cdn.nintendo.net
 broker.lp1.npns.srv.nintendo.net
 consumer.lp1.npns.srv.nintendo.net
 ctest.cdn.nintendo.net
-dauth-lp1.ndas.srv.nintendo.net
-e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
-receive-lp1.dg.srv.nintendo.net
 ctest.nintendo.com
 104.198.251.169
 beacons*.gvt2.com
 
-# Corona Warnapp (veri=selber positiv, keys senden; svc90=andere positiv, keys empfangen)
+# Corona Warnapp
 verification.coronawarn.app
 svc90.main.px.t-online.de
 
 # Snapchat
 tr.snapchat.com
-tr.snapchat.com
-app-analytics-v2.snapchat.com
 app-analytics-v2.snapchat.com
 js.sentry-cdn.com
 cf-st.sc-cdn.net
@@ -218,36 +292,61 @@ appspot.l.google.com
 snapchat.com
 data.flurry.com
 feelinsonice.com
-cf-st.sc-cdn.net
 app.snapchat.com
 
 # YouTube
 google.de
 google.com
-google.com
-google.de
 r4---sn-4g5ednly.googlevideo.com
 r4---sn-h0jeln7l.googlevideo.com
 clients2.google.com
-clients2.google.com
 video-stats.l.google.com
-s.mzstatic.com
 android.clients.google.com
 s.youtube.com
-video-stats.l.google.com
 s.youtube.com 
-video-stats.l.google.com
 clients4.google.com 
 clients2.google.com 
+oauthaccountmanager.googleapis.com
+
+# Google and Android
+redirector.gvt1.com
+googleapis.com 
+outubei.googleapis.com
+reminders-pa.googleapis.com 
+firestore.googleapis.com
+gstaticadssl.l.google.com
+googleapis.l.google.com
+dl.google.com
+connectivitycheck.android.com 
+android.clients.google.com 
+clients3.google.com 
+connectivitycheck.gstatic.com 
+# WhatsApp
+
+dit.whatsapp.net
+wa.me
+
+# Reddit
+styles.redditmedia.com
+redditstatic.com
+reddit.map.fastly.net
+redditmedia.com
+reddit-uploaded-media.s3-accelerate.amazonaws.com
+tracking.dpd.de
 
 # Websites
-pr0gramm.com
 pr0gramm.com
 full.pr0gramm.com
 vid.pr0gramm.com
 mail.de
-mail.de
 my.mail.de
+web.de
+facebook.de
+facebook.com
+ea.com
+mynt.xyz
+bugmenot.com
+clashroyaleapp.com
 
 # Misc
 d2c8v52ll5s99u.cloudfront.net
@@ -263,7 +362,6 @@ offline-maps.gvt1.com
 local
 s.shopify.com
 hubt.pornhub.com
-hubt.pornhub.com
 media.trafficjunky.com
 hubtraffic.com
 trafficjunky.com
@@ -271,9 +369,6 @@ ht-cdn2.adtng.com
 cdn77-pic.xnxx-cdn.com
 cdn77-pic.xvideos-cdn.com
 checkip.dyndns.org
-local
-ocsp.apple.com
-ea.com
 cdn.optimizely.com
 keystone.mwbsys.com
 blockchain.info
@@ -281,9 +376,7 @@ cdn.electronic.us
 js.hs-scripts.com
 go.veeam.com
 cdn77-vid.xnxx-cdn.com
-multi.xnxx.com$importan
-www.facebook.com
-bugmenot.com
+multi.xnxx.com
 iwanttodeliver.com
 rsc.cdn77.org
 tracksrv.zdf.de
@@ -296,17 +389,10 @@ inapps.appsflyer.com
 wa.web.de
 ymprove.web.de
 t.uimserv.net
-web.de
 api.eu-west-1.aiv-delivery.net
-dit.whatsapp.net
 s.deepl.com
 images.cgames.de
 canvaz.scdn.co
-samsungotn.net
-gpm.samsungqbe.com
-ns11.whois.co.kr
-lcprd1.samsungcloudsolution.net
-time.samsungcloudsolution.com
 sp-ao.shortpixel.ai
 opensource.guide
 api.opensubtitles.org
@@ -325,16 +411,31 @@ grafana.org
 stats.grafana.org
 influxdata.com
 stats.influxdata.com
-app.gitbook.com
-gitbook.com
-lancellc.gitbook.io
 cc-api-data.adobe.io
 assets.prod.leanplum.com
 u22752280.ct.sendgrid.net
 unsubscribe.prod.leanplum.com
 leanplum.com
-github.io
-msftconnecttest.com 
 cdn.perfops.net
 perfops.net
-
+s.marketwatch.com
+imagesak.secureserver.net
+widget-cdn.rpxnow.com
+asadcdn.com code.bildstatic.de 
+de.ioam.de 
+json.bild.de 
+script.ioam.de 
+tags.tiqcdn.com 
+tagger.opecloud.com
+weeklyad.target.com 
+m.weeklyad.target.com 
+weeklyad.target.com.edgesuite.net
+cloudsync-prod.s3.amazonaws.com
+79423.analytics.edgekey.net
+nexus.ensighten.com
+telemetry-console.api.playstation.com
+gdlp01.c-wss.com
+appboy-images.com 
+rest.iad-03.braze.com
+mobileandroidapi.punchh.com
+cds.s5x3j6q5.hwcdn.net
