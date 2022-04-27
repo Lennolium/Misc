@@ -119,6 +119,76 @@ t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 ipv6.msftncsi.com
 msftconnecttest.com 
+i-db3p-cor004.api.p001.1drv.com
+admin.microsoft.com
+*.1drv.com
+storage.live.com
+1drv.ms
+insideruser.microsoft.com
+vortex.data.microsoft.com
+xkms.xboxlive.com
+2.tlu.dl.delivery.mp.microsoft.com
+4.tlu.dl.delivery.mp.microsoft.com
+aad.cs.dds.microsoft.com
+api.flightproxy.teams.microsoft.com
+authsvc.teams.microsoft.com
+browser.events.data.microsoft.com
+browser.pipe.aria.microsoft.com
+chatsvcagg.teams.microsoft.com
+codepush.teams.microsoft.com
+config.teams.microsoft.com
+cp801.prod.do.dsp.mp.microsoft.com
+csp.microsoft.com
+devicelistenerprod.microsoft.com
+edge.microsoft.com
+emea.ng.msg.teams.microsoft.com
+eu-v10.events.data.microsoft.com
+eu-v20.events.data.microsoft.com
+europe.cp.wd.microsoft.com
+europe.smartscreen-prod.microsoft.com
+europe.smartscreen.microsoft.com
+fe3cr.delivery.mp.microsoft.com
+geover.prod.do.dsp.mp.microsoft.com
+go.microsoft.com
+go.trouter.teams.microsoft.com
+has.spserv.microsoft.com
+ic3.events.data.microsoft.com
+mamservice.manage.microsoft.com
+northeurope-prod-4.notifications.teams.microsoft.com
+officecdnmac.microsoft.com
+presence.teams.microsoft.com
+r.manage.microsoft.com
+self.events.data.microsoft.com
+teams.events.data.microsoft.com
+teams.microsoft.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
+whiteboard.microsoft.com
+winatp-gw-neu.microsoft.com
+www.microsoft.com
+teams.office.com
+nexusrules.officeapps.live.com
+config.fp.measure.office.com
+upload.fp.measure.office.com
+substrate.office.com
+outlook.office.com
+ecs.office.com
+res-1.cdn.office.net
+mrs-efz.ms-acdc.office.com
+nleditor.osi.office.net
+outlook.ha.office365.com
+clients.config.office.net
+outlook-1.cdn.office.net
+statics.teams.cdn.office.net
+officeci-mauservice.azurewebsites.net
+emea.pptservicescast.officeapps.live.com
+licensing.mp.microsoft.com
+az416426.vo.msecnd.net
+fp.msedge.net
+minecraftprod.rtep.msgamestudios.com
+dl.delivery.mp.microsoft.com
+geo-prod.do.dsp.mp.microsoft.com
+client.wns.windows.com
+storeedgefd.dsx.mp.microsoft.com
 
 # Plex App and Web
 plex.tv 
@@ -186,8 +256,10 @@ gsp-ssl.ls-apple.com.akadns.net
 www.apple.com 
 www.appleiphonecell.com
 
-# Epic Games Store
+# Epic Games
 tracking.epicgames.com
+(.|^)epicgames.com$
+epicgames.com
 
 # Firefox
 tracking-protection.cdn.mozilla.net
@@ -215,12 +287,24 @@ twitter.com
 upload.twitter.com
 api.twitter.com
 mobile.twitter.com
-# Banks
+syndication.twitter.com
 
+# Banks
 h-sdk.online-metrix.net
 check2.tsb.co.uk
 p11.techlab-cdn.com
 logs.juspay.in
+
+# Paypal
+paypal.com
+geo.paypal.com.akadns.net
+paypal.com.akadns.net
+wlb.paypal.com.akadns.net
+paypal.com.edgekey.net
+e16973.a.akamaiedge.net
+t.paypal.com
+104.72.140.80
+(.|^)https://www\.awin1\.com/$
 
 # Amazon Shopping, Kindle and Prime Video
 sqs.us-east-1.amazonaws.com
@@ -277,6 +361,20 @@ beacons*.gvt2.com
 verification.coronawarn.app
 svc90.main.px.t-online.de
 
+# Disney Plus
+disneyplus.com
+bamgrid.com
+bam.nr-data.net
+cdn.registerdisney.go.com
+cws.conviva.com
+d9.flashtalking.com
+disney-portal.my.onetrust.com
+disneyplus.bn5x.net
+js-agent.newrelic.com
+disney-plus.net
+dssott.com
+adobedtm.com
+
 # Snapchat
 tr.snapchat.com
 app-analytics-v2.snapchat.com
@@ -321,8 +419,9 @@ connectivitycheck.android.com
 android.clients.google.com 
 clients3.google.com 
 connectivitycheck.gstatic.com 
-# WhatsApp
+translate.google.com
 
+# WhatsApp
 dit.whatsapp.net
 wa.me
 
@@ -439,3 +538,24 @@ appboy-images.com
 rest.iad-03.braze.com
 mobileandroidapi.punchh.com
 cds.s5x3j6q5.hwcdn.net
+cws-hulu.conviva.com
+tracker4.itzmx.com
+pop.com
+internetsociety.org
+readthedocs.org
+*.sp-prod.net
+files.slack.com
+slack.com
+analytics.tripwireinteractive.com
+scripts.deejay.it
+scripts.kataweb.it
+uapi.adrise.tv
+dynaimage.cdn.turner.com
+x-default-stgec.uplynk.com
+tim.d3.sc.omtrdc.net
+js.stripe.com
+c.amazon-adsystem.com
+geolocation.onetrust.com
+privacyportal-de.onetrust.com
+s1.yimg.com
+s.yimg.com
