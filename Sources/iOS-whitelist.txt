@@ -1,0 +1,168 @@
+###Lennolium iOS/macOS Tracking White list
+
+# Device Setup
+albert.apple.com
+captive.apple.com
+gs.apple.com
+gg.apple.com
+humb.apple.com
+static.ips.apple.com
+sq-device.apple.com
+tbsc.apple.com
+time-ios.apple.com
+time.apple.com
+time-macos.apple.com
+
+# Device Management
+push.apple.com
+*.push.apple.com
+@@||push.apple.com^
+api.push.apple.com
+gateway.push.apple.com
+deviceenrollment.apple.com
+deviceservices-external.apple.com
+gdmf.apple.com
+identity.apple.com
+iprofiles.apple.com
+mdmenrollment.apple.com
+setup.icloud.com
+vpp.itunes.apple.com
+
+# School and Business Manager
+business.apple.com
+*.business.apple.com
+@@||business.apple.com^
+@@||school.apple.com^
+upload.appleschoolcontent.com
+ws-ee-maidsvc.icloud.com
+
+# Business Device Management
+axm-adm-enroll.apple.com
+axm-adm-mdm.apple.com
+axm-adm-scep.apple.com
+axm-app.apple.com
+
+# Software Updates
+appldnld.apple.com
+configuration.apple.com
+gdmf.apple.com
+gg.apple.com
+gnf-mdn.apple.com
+gnf-mr.apple.com
+gs.apple.com
+ig.apple.com
+mesu.apple.com
+ns.itunes.apple.com
+oscdn.apple.com
+osrecovery.apple.com
+skl.apple.com
+swcdn.apple.com
+swdist.apple.com
+swdownload.apple.com
+swscan.apple.com
+updates-http.cdn-apple.com
+updates.cdn-apple.com
+xp.apple.com
+gdmf.apple.com/v2/pmv
+gdmf.apple.com
+
+# App Store
+itunes.apple.com
+*.itunes.apple.com
+@@||itunes.apple.com^
+@@||apps.apple.com^
+@@||mzstatic.com^
+itunes.apple.com
+ppq.apple.com
+
+# Carrier Updates
+appldnld.apple.com
+appldnld.apple.com.edgesuite.net
+itunes.com
+itunes.apple.com
+updates-http.cdn-apple.com
+updates.cdn-apple.com
+
+# Content Caching
+lcdn-registration.apple.com
+suconfig.apple.com
+xp-cdn.apple.com
+lcdn-locator.apple.com
+serverstatus.apple.com
+
+# Apple Developer
+notary-submissions-prod.s3-accelerate.amazonaws.com
+notary-submissions-prod.s3.us-west-2.amazonaws.com
+17.248.128.0
+17.250.64.0
+17.248.192.0
+17.248.128.0/18
+17.250.64.0/18
+17.248.192.0/19
+appattest.apple.com
+*.appattest.apple.com
+@@||appattest.apple.com^
+
+# Feedback Assistant
+bpapi.apple.com
+cssubmissions.apple.com
+fba.apple.com
+
+# Apple Diagnostics
+diagassets.apple.com
+
+# Apple DNS
+doh.dns.apple.com
+
+# Certificate Validation
+certs.apple.com
+crl.apple.com
+crl.entrust.net
+crl3.digicert.com
+crl4.digicert.com	
+ocsp.apple.com
+ocsp.digicert.cn
+ocsp.digicert.com
+ocsp.entrust.net
+ocsp2.apple.com
+valid.apple.com
+
+# Apple ID
+appleid.apple.com
+appleid.cdn-apple.com
+idmsa.apple.com
+gsa.apple.com
+
+# iCloud
+@@||apple-cloudkit.com^
+@@||apple-livephotoskit.com^
+@@||apzones.com^
+@@||cdn-apple.com^
+@@||gc.apple.com^
+@@||icloud.com^
+@@||icloud.com.cn^
+@@||icloud.apple.com^
+@@||icloud-content.com^
+@@||iwork.apple.com^
+
+# Private Relay (bypasses local DNS)
+#mask.icloud.com
+#mask-h2.icloud.com
+#mask-api.icloud.com
+
+# Additional Content
+audiocontentdownload.apple.com
+devimages-cdn.apple.com
+download.developer.apple.com
+playgrounds-assets-cdn.apple.com
+playgrounds-cdn.apple.com
+sylvan.apple.com
+
+# Other
+@@||apple.com^
+mdmenrollment.apple.com
+manifest2.inn.rdca.ls.apple.com
+lookup-api.apple.com
+fmip.me.com
+
+
