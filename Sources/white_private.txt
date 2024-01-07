@@ -39,6 +39,12 @@ nsx.np.dl.playstation.net
 api-tv.spotify.com
 api2.branch.io
 sentry.io
+mobile-ap.spotify.com
+apresolve.spotify.com
+upgrade.scdn.com
+market.spotify.com
+spclient.wg.spotify.com
+audio-ake.spotify.com.edgesuite.net
 
 # URL shorteners
 adf.ly
@@ -289,6 +295,13 @@ api.twitter.com
 mobile.twitter.com
 syndication.twitter.com
 
+# Disqus
+disqus.com
+disquscdn.com
+prod.disqus.map.fastlylb.net
+c.disquscdn.com.cdn.cloudflare.net
+referrer.disqus.com
+
 # Banks
 h-sdk.online-metrix.net
 check2.tsb.co.uk
@@ -447,6 +460,39 @@ mynt.xyz
 bugmenot.com
 clashroyaleapp.com
 
+# Fix Paypal
+api.paypal.com 
+api-3t.paypal.com 
+svcs.paypal.com 
+Ipnpb.paypal.com
+accounts.paypal.com 
+batch.paypal.com 
+disputes.paypal.com
+dropzone.paypal.com  
+reports.paypal.com
+manager.paypal.com  
+payflowlink.paypal.com  
+payflowpro.paypal.com  
+partnermanager.paypal.com
+payments-reports.paypal.com/reportingengine  
+paypalmanager.paypal.com
+registration.paypal.com
+xml-reg.paypal.com
+notify.paypal.com
+api.sandbox.paypal.com
+api-3t.sandbox.paypal.com
+svcs.sandbox.paypal.com
+Ipnpb.sandbox.paypal.com
+accounts.sandbox.paypal.com 
+batch.sandbox.paypal.com 
+disputes.sandbox.paypal.com 
+dropzone.sandbox.paypal.com
+reports.sandbox.paypal.com
+pilot-payflowpro.paypal.com
+pilot-payflowlink.paypal.com
+payments-reports.paypal.com
+ipn.sandbox.paypal.com
+
 # Misc
 d2c8v52ll5s99u.cloudfront.net
 stats.streamelements.com
@@ -494,6 +540,8 @@ images.cgames.de
 canvaz.scdn.co
 sp-ao.shortpixel.ai
 opensource.guide
+
+# Github Issues
 api.opensubtitles.org
 opensubtitles.org
 images.tokopedia.net
@@ -559,3 +607,37 @@ geolocation.onetrust.com
 privacyportal-de.onetrust.com
 s1.yimg.com
 s.yimg.com
+cdn.perfops.net
+perfops.net
+github.io
+gitbook.com
+app.gitbook.com
+bugly-android.mgapex.com
+mgapex.com
+apex.go.sonobi.com
+sonobi.com
+edgesuite.net
+images.tokopedia.net
+ecs7.tokopedia.net
+tokopedia.net
+clashroyaleapp.com
+opensubtitles.org
+mynt.xyz
+d3ward.github.io
+zigbee2mqtt.io
+edge-mqtt.facebook.com
+docs.pikvm.org
+pikvm.org
+fishshell.com
+cockpit-project.org
+myprotein.es
+myprotein.de
+myprotein.com
+myprotein.org
+split.io
+optimizely.com
+cdn.optimizely.com
+tinyurl.com
+ow.ly
+bit.ly
+t.ly
