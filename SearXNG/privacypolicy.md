@@ -3,7 +3,7 @@
 **According to § 5 TMG**
 
 Lennart Haack  
-Street: On request
+Street: On request 
 Frankfurt am Main  
 Germany  
 
